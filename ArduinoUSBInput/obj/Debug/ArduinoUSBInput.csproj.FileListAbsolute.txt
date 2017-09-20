@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\ArduinoUSBInput\ArduinoUSBInput\bin\Debug\ArduinoUSBInput.exe.config
+C:\inetpub\wwwroot\ArduinoUSBInput\ArduinoUSBInput\bin\Debug\ArduinoUSBInput.exe
+C:\inetpub\wwwroot\ArduinoUSBInput\ArduinoUSBInput\bin\Debug\ArduinoUSBInput.pdb
+C:\inetpub\wwwroot\ArduinoUSBInput\ArduinoUSBInput\obj\Debug\ArduinoUSBInput.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ArduinoUSBInput\ArduinoUSBInput\obj\Debug\ArduinoUSBInput.Form1.resources
+C:\inetpub\wwwroot\ArduinoUSBInput\ArduinoUSBInput\obj\Debug\ArduinoUSBInput.Properties.Resources.resources
+C:\inetpub\wwwroot\ArduinoUSBInput\ArduinoUSBInput\obj\Debug\ArduinoUSBInput.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\ArduinoUSBInput\ArduinoUSBInput\obj\Debug\ArduinoUSBInput.exe
+C:\inetpub\wwwroot\ArduinoUSBInput\ArduinoUSBInput\obj\Debug\ArduinoUSBInput.pdb
